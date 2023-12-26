@@ -1,48 +1,25 @@
-import Container from './container'
-import cn from 'classnames'
-import { EXAMPLE_PATH } from '../lib/constants'
 
 type Props = {
-  preview?: boolean
-}
+  preview?: boolean;
+};
 
 const Alert = ({ preview }: Props) => {
   return (
-    <div
-      className={cn('border-b', {
-        'bg-neutral-800 border-neutral-800 text-white': preview,
-        'bg-neutral-50 border-neutral-200': !preview,
-      })}
-    >
-      <Container>
-        <div className="py-2 text-center text-sm">
-          {preview ? (
-            <>
-              This page is a preview.{' '}
-              <a
-                href="/api/exit-preview"
-                className="underline hover:text-teal-300 duration-200 transition-colors"
-              >
-                Click here
-              </a>{' '}
-              to exit preview mode.
-            </>
-          ) : (
-            <>
-              The source code for this blog is{' '}
-              <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
-                className="underline hover:text-blue-600 duration-200 transition-colors"
-              >
-                available on GitHub
-              </a>
-              .
-            </>
-          )}
-        </div>
-      </Container>
+    <div className="flex justify-start items-center gap-4 w-200 pl-4 border-neutral-200 border-b bg-neutral-50">
+      <div className="py-2 text-center lg:text-sm md:text-xs text-xs">
+        
+            Blog creado por Pedro Serrano, estudiante de Bachillerato internacional en el{" "}
+            <a
+              href={`https://www.sancristobalsl.com/bachillerato-internacional-programa-diploma-castellon/`}
+              className="underline hover:text-blue-600 duration-200 transition-colors"
+            >
+               centro educativo San Cristobal de Castellón
+            </a>
+            .
+          
+      </div>
     </div>
-  )
-}
+  );
+};
 
-export default Alert
+export default Alert;
