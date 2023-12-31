@@ -5,9 +5,11 @@ coverImage: '/assets/blog/guion-aladdin/cover.jpg'
 date: '2023-09-21T05:35:07.322Z'
 author:
   name: Pedro Serrano
-  picture: '/assets/blog/authors/jj.jpeg'
+  picture: '/assets/blog/authors/pedro-serrano.jpg'
 ogImage:
   url: '/assets/blog/guion-aladdin/cover.jpg'
+
+category: 'Experiencia'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.

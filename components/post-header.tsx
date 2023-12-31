@@ -10,7 +10,7 @@ type Props = {
   date: string
   author: Author
 }
-
+//dentro del post
 const PostHeader = ({ title, coverImage, date, author }: Props) => {
   return (
     <>
