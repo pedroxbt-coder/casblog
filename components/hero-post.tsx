@@ -38,9 +38,13 @@ const HeroPost = ({
       </h3>
       <p className="text-lg leading-relaxed mb-4 border-b">{excerpt}</p>
 
-      <div className="flex justify-between items-center">
-        <DateFormatter dateString={date} />
-        <Avatar name={author.name} picture={author.picture} />
+      <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center">
+        <div className="order-2 sm:order-1">
+          <Avatar name={author.name} picture={author.picture} />
+        </div>
+        <div className="order-1 mb-4 sm:order2">
+          <DateFormatter dateString={date} />
+        </div>
       </div>
     </section>
   );

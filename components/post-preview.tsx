@@ -41,11 +41,11 @@ const PostPreview = ({
       </h3>
       <p className="text-lg border-b mb-2">{category}</p>
       <p className="text-lg leading-relaxed mb-2 border-b">{excerpt}</p>
-      <div className="flex md:flex-col xl:flex-row xl:justify-between xl:items-center">
-        <div className="order-2 sm:order-1 xl:order-2 sm:mb-2">
+      <div className="flex flex-col md:flex-col lg:flex-row lg:justify-between lg:items-center">
+        <div className="order-1 sm:order-1 lg:order-2 lg:mb-0 mb-2">
           <DateFormatter dateString={date} />
         </div>
-        <div className="order-1 sm:order-2 xl:order-1">
+        <div className="order-2 sm:order-2 lg:order-1">
           <Avatar name={author.name} picture={author.picture} />
         </div>
       </div>

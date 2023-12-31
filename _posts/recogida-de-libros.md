@@ -2,7 +2,7 @@
 title: 'Recogida de libros'
 excerpt: 'Servicio'
 coverImage: '/assets/blog/recogida-de-libros/cover.jpg'
-date: '2023-09-09T05:35:07.322Z'
+date: '2023-12-20T05:35:07.322Z'
 author:
   name: Pedro Serrano
   picture: '/assets/blog/authors/pedro-serrano.jpg'
