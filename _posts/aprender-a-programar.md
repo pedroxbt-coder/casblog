@@ -8,14 +8,18 @@ author:
   picture: '/assets/blog/authors/pedro-serrano.jpg'
 ogImage:
   url: '/assets/blog/aprender-a-programar/cover.jpg'
-
+outcomes: '2, 3 y 4'
 category: 'Experiencia'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+## **Descripción de la experiencia**
+Esta es una experiencia muy especial para mí y le quiero dedicar muchas horas ya que estoy muy emocionado por poder compaginar con los estudios el aprendizaje de esta emocionante habilidad que he implementado en mi vida hace poco con la planificación de CAS.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+El campo que más me gusta es el de desarrollador front-end (estilizar y programar la parte con la que interactúa el usuario), por eso he seguido y estoy siguiendo estos pasos: primero aprendí 2 lenguajes que no forman parte de "programar" estrictamente, pero son necesarios para fundar las bases. Estos son HTML y CSS. Después, y actualmente, estoy mejorando mi conocimiento en Javascript, que es el último lenguaje necesario para poder crear todo tipo de aplicaciones que pueda imaginar. Dentro de este último está el verdadero reto, ya que es el más amplio y complejo. Además, estoy aprendiendo Next.js, un "framework" de Javascript, con el que quiero implicarme al máximo para probar mis capacidades como autodidacta.
 
-## Lorem Ipsum
+## **Propósito y metas**
+La meta que he establecido, aunque ambiciosa, es considerarme experto en programación (en el campo en el que me quiero enfocar) para finales de este curso.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+## **Evidencias y reflexiones**
+Cuando por fin me decidí a empezar este camino no tenía ni idea de todo con lo que me iba a encontrar. Al principio era fácil: yo con tutoriales en youtube que me enseñaban los fundamentos del front-end. Pero conforme fui progresando y hasta el día de hoy, escribiendo esto en un blog programado por mí, he ido viendo la inmensa cantidad de detalles que hay por aprender y la de errores imposibles de resolver con mis habilidades todavía no muy desarrolladas. Esta experiencia ha sido un verdadero desafío a mi capacidad de comprometerme y ser constante para conseguir algo que me he propuesto. Programando soy capaz de entrar en un gran estado de concentración, y sé que no podría conseguirlo si no me gustara hacerlo. Tras tanto esfuerzo y dedicación en el tiempo puedo decir que me siento realizado.
+

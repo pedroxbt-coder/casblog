@@ -8,14 +8,19 @@ author:
   picture: '/assets/blog/authors/pedro-serrano.jpg'
 ogImage:
   url: '/assets/blog/conecta-con-la-naturaleza/cover.jpg'
-
+outcomes: '1 y 2'
 category: 'Experiencia'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+## **Descripción de la experiencia**
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Empecé a creer en esto tras el comienzo del curso gracias a algunas personas influyentes en mi vida. Fui una tarde a bañarme al mar, no sabía por qué, pero lo necesitaba. Desde entonces lo he estado haciendo innumerables veces sin importar lo lejos que estuviera, el frío que hiciera (ya que me daba igual que fuera invierno) o el trabajo que tuviera que hacer para el día siguiente. Además de bañarme en el mar, he incorporado varios detalles a mi día que me mantienen saludable y alineado con mi propósito. Por ejemplo, despertarme e irme a dormir a horarios constantes con los primeros y últimos infrarrojos del día para regular mi ritmo circadiano (esto gracias a una lámpara-despertador adaptable, que aunque sea luz artificial, sustituye lo que no es posible por vivir en una ciudad y tener horarios cuadriculados). También he empezado a comer alimentos reales y fisiológicos (alimentos que el humano necesita por su naturaleza, a diferencia de el 90% de productos que nos venden en los supermercados). Por último, me gusta introducir actividad física como primer paso en el día y, para ayudar a alejarme un poco más de la comodidad extrema, exponerme un poco más de vez en cuando al frío.
 
-## Lorem Ipsum
+## **Propósito y metas**
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Mi propósito con la adición de este hábito a mi vida es volver a sentirme uno con la naturaleza. Los humanos hemos estado viviendo en equilibrio y siguiendo el "manual de instrucciones" de nuestro cuerpo desde nuestros comienzos y ha funcionado bien hasta ahora, es por esto que no deberíamos ignorar tantos miles de años de sabiduría evolutiva y sucumbir a las comodidades del mundo moderno.
+
+## __Evidencias y reflexiones__
+![Evidencias no disponibles.]()
+
+Gracias a esta experiencia he podido juntar un montón de actividades geniales que no sabía cómo mostrar en CAS en una sola. Conforme más me he ido sumergiendo con la idea de esta iniciativa, mejor me he ido sintiendo, he notado que mis resultados académicos han mejorado y me he visto con más energía y concentración durante el día. Sin duda esta es una de mis mejores experiencias. Me ha ayudado a sentirme más agradecido con el mundo y a atender a la realidad más que nunca.

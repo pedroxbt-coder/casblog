@@ -8,14 +8,20 @@ author:
   picture: '/assets/blog/authors/pedro-serrano.jpg'
 ogImage:
   url: '/assets/blog/natacion/cover.jpg'
-
+outcomes: '1 y 2'
 category: 'Experiencia'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+## **Descripción de la experiencia**
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Con el inicio del Bachillerato Internacional, en septiembre, mi apartamento de Benicassim (una localidad al lado de Castellón, mi ciudad) fue quedando más vacío al empezar a irse la gente que veranea allí. Fue entonces cuando con la iniciativa de CAS y al ver que todavía me quedaban unas semanas de piscina antes de volver a Castellón, empecé a ir a nadar casi diariamente. Varias veces a la semana bajaba y estaba al rededor de media hora haciendo largos.
 
-## Lorem Ipsum
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+## **Propósito y metas**
+
+Mi objetivo era incorporar una nueva y muy completa forma de actividad física. Hasta ahora no la había implementado como parte del ejercicio que hago, ya que tampoco lo había hecho para mucho más que darme un baño en la piscina en verano. Con la natación busco sacar provecho de los beneficios físicos que puede ofrecer.
+
+## **Evidencias y reflexiones**
+![Evidencias no disponibles.]()
+
+Siempre me ha gustado hacer ejercicio pero, hasta ahora, nunca me propuse hacerlo más seguido. Gracias a comprometerme con esta actividad durante unas semanas he visto lo bien que le sienta a mi cuerpo esta saludable actividad. Además, como evidencia directa de empezar esta actividad, fui viendo cómo iba mejorando en cuanto al tiempo que tenía que descansar entre cada serie. Al iniciar, no era capaz de hacer más de dos largos seguidos sin tener que parar a descansar un poco, pero conforme fui avanzando me vi haciendo series de hasta seis largos sin parar. Esto me ha demostrado una vez más la capacidad de adaptación de nuestro cuerpo y la importancia de la sobrecarga progresiva.

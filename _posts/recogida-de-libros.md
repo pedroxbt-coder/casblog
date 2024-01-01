@@ -8,14 +8,40 @@ author:
   picture: '/assets/blog/authors/pedro-serrano.jpg'
 ogImage:
   url: '/assets/blog/recogida-de-libros/cover.jpg'
-
+outcomes: '3, 5, 6 y 7'
 category: 'Proyecto'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+## **Descripción del proyecto**
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Hemos empezado una campaña para recoger la mayor cantidad de libros posible. Para ello, enviamos una circular que incluía un vídeo informativo a todas las familias del centro. Tras una semana de recolecta de los libros que los alumnos iban trayendo, conseguimos recopilar cientos de libros que almacenamos en el centro hasta la fecha en que los llevamos a la biblioteca Rafalafena, encargada de gestionar el posterior traslado a Colombia.
 
-## Lorem Ipsum
+## **Propósito  y metas**
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Ayudar en la creación de una biblioteca en Sato, Colombia.
+
+## **Etapas CAS:**
+
+### **1. Investigación**
+Buscamos por las redes sociales de bibliotecas locales iniciativas con las que poder colaborar y dimos con la de la Biblioteca Rafalafena.
+
+### **2. Preparación**
+Pensamos en cómo llevar a cabo lo que teníamos en mente. Primero pensamos en hacer un cartel llamativo con la idea del proyecto y establecer el centro un punto donde los colaboradores podrían depositar los libros, además de pasar por las aulas para exponer nuestro proyecto, pero después se nos ocurrió que sería una mejor y más eficiente idea crear un vídeo y difundirlo entre las familias de alumnos del colegio. Dimos un periodo de tiempo para pasar a recoger los libros, y ya estaba todo listo.
+
+### **3. Acción**
+Estuvimos pasando por las clases recogiendo los libros que iban trayendo. Al final de la semana, nos encontramos con una gran cantidad de libros para poder donar, la colaboración de las familias del centro fue magnífica. Los almacenamos en el centro por varios días hasta haber completado la gestión del traslado a la biblioteca y a Colombia, ya que estábamos en contacto con una persona local de allí que costearía los precios de envío. Todo se llevó a cabo con éxito.
+
+### **4. Reflexión**
+La campaña de recogida de libros para Sato, en Arroyohondo, no solo ha cumplido con el requisito del programa CAS, sino que ha demostrado el poder transformador de la comunidad y la educación. Cada libro donado es una llave que abre puertas a nuevas oportunidades. En esta experiencia, hemos integrado valores como la empatía y la responsabilidad social, dejando una marca duradera en la comunidad. Este acto de servicio no solo ha enriquecido las vidas de quienes recibirán los libros, sino que también ha fortalecido nuestra comprensión del impacto positivo que podemos tener en el mundo que nos rodea.
+
+### **5. Demostración**
+Dado que el transporte de los libros a Colombia es costoso y tardío, puede que no recibamos respuesta de los habitantes de Sato en cuanto a los libros hasta dentro de unos meses. 
+
+
+
+## **Evidencias y reflexiones**
+
+La campaña de recogida de libros para Sato, en Arroyohondo, no solo ha cumplido con el requisito del programa CAS, sino que ha demostrado el poder transformador de la comunidad y la educación. Cada libro donado es una llave que abre puertas a nuevas oportunidades. En esta experiencia, hemos integrado valores como la empatía y la responsabilidad social, dejando una marca duradera en la comunidad. Este acto de servicio no solo ha enriquecido las vidas de quienes recibirán los libros, sino que también ha fortalecido nuestra comprensión del impacto positivo que podemos tener en el mundo que nos rodea.
+
+Se nos ocurrió hacer un vídeo para poder difundir la información de lo que estábamos haciendo de manera más eficiente.
+
